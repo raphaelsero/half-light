@@ -1,0 +1,431 @@
+fileFormatVersion: 2
+guid: d331764bca58e4ba7a86f19324aeafca
+timeCreated: 1513281632
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: raphael-jumping-shoot_0
+    21300002: raphael-jumping-shoot_1
+    21300004: raphael-jumping-shoot_2
+    21300006: raphael-jumping-shoot_3
+    21300008: raphael-jumping-shoot_4
+    21300010: raphael-jumping-shoot_5
+    21300012: raphael-jumping-shoot_6
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Tizen
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Samsung TV
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: raphael-jumping-shoot_0
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 350
+        width: 212
+        height: 287
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 98, y: 143.5}
+        - {x: -56, y: 143.5}
+        - {x: -68, y: 139.5}
+        - {x: -106, y: 102.5}
+        - {x: -106, y: -143.5}
+        - {x: 32, y: -143.5}
+        - {x: 81, y: -107.5}
+        - {x: 105, y: -17.5}
+        - {x: 105, y: 138.5}
+      - - {x: -84, y: -37.5}
+        - {x: -84, y: -43.5}
+        - {x: -83, y: -44.5}
+        - {x: -81, y: -45.5}
+        - {x: -74, y: -45.5}
+        - {x: -74, y: -37.5}
+      - - {x: -71, y: -3.5}
+        - {x: -68, y: -2.5}
+        - {x: -68, y: 0.5}
+        - {x: -71, y: 1.5}
+        - {x: -73, y: -0.5}
+      - - {x: 103, y: 111.5}
+        - {x: 105, y: 109.5}
+        - {x: 106, y: 109.5}
+        - {x: 106, y: 115.5}
+        - {x: 103, y: 114.5}
+      - - {x: 35, y: 113.5}
+        - {x: 38, y: 114.5}
+        - {x: 38, y: 117.5}
+        - {x: 35, y: 118.5}
+        - {x: 33, y: 116.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: raphael-jumping-shoot_1
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 350
+        width: 183
+        height: 317
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 49.5, y: 98.5}
+        - {x: 38.5, y: 82.5}
+        - {x: 42.5, y: 91.5}
+        - {x: 51.5, y: 141.5}
+        - {x: 35.5, y: 158.5}
+        - {x: 22.5, y: 158.5}
+        - {x: 23.5, y: 155.5}
+        - {x: 27.5, y: 155.5}
+        - {x: 25.5, y: 154.5}
+        - {x: 17.5, y: 158.5}
+        - {x: -74.5, y: 158.5}
+        - {x: -91.5, y: 141.5}
+        - {x: -91.5, y: -82.5}
+        - {x: -35.5, y: -158.5}
+        - {x: 34.5, y: -158.5}
+        - {x: 91.5, y: -13.5}
+        - {x: 91.5, y: 85.5}
+        - {x: 75.5, y: 98.5}
+      - - {x: -53.5, y: -132.5}
+        - {x: -50.5, y: -135.5}
+        - {x: -47.5, y: -135.5}
+        - {x: -45.5, y: -133.5}
+        - {x: -46.5, y: -130.5}
+        - {x: -51.5, y: -129.5}
+      - - {x: -91.5, y: 38.5}
+        - {x: -88.5, y: 39.5}
+        - {x: -87.5, y: 45.5}
+        - {x: -89.5, y: 47.5}
+        - {x: -91.5, y: 47.5}
+      - - {x: 56.231995, y: 118.80487}
+        - {x: 74.62729, y: 105.263794}
+        - {x: 68.072845, y: 106.10474}
+        - {x: 67.29562, y: 117.72278}
+        - {x: 48.90033, y: 115.90033}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: raphael-jumping-shoot_2
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 355
+        width: 198
+        height: 352
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 51, y: 90}
+        - {x: 38, y: 73}
+        - {x: 24, y: 77}
+        - {x: 21, y: 77}
+        - {x: 19, y: 75}
+        - {x: 14, y: 77}
+        - {x: 22, y: 78}
+        - {x: 29, y: 82}
+        - {x: 34, y: 85}
+        - {x: 44, y: 121}
+        - {x: 56, y: 176}
+        - {x: -99, y: 176}
+        - {x: -99, y: 123.58374}
+        - {x: -65.11389, y: -48.93634}
+        - {x: -90, y: -165}
+        - {x: -84, y: -176}
+        - {x: 10, y: -176}
+        - {x: 99, y: -111}
+        - {x: 99, y: 77}
+        - {x: 79, y: 95}
+      - - {x: -82.50922, y: 85.299805}
+        - {x: -80.604675, y: 79.49078}
+        - {x: -62.20938, y: -19.63153}
+        - {x: -56.14569, y: 15.222778}
+        - {x: -68.572845, y: 37}
+        - {x: -79.22278, y: 69.58624}
+        - {x: -84.25461, y: 74.6181}
+      - - {x: -77.49216, y: -18.671509}
+        - {x: -73.619446, y: 12.310181}
+        - {x: -69.746765, y: 15.214661}
+        - {x: -69.746765, y: 5.532898}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: raphael-jumping-shoot_3
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 351
+        width: 231
+        height: 328
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -115.5, y: 164}
+        - {x: -115.5, y: -32}
+        - {x: -72.5, y: -164}
+        - {x: 38.5, y: -164}
+        - {x: 115.5, y: -20}
+        - {x: 115.5, y: 136}
+        - {x: 61.5, y: 164}
+      - - {x: 44.5, y: -84}
+        - {x: 46.5, y: -86}
+        - {x: 49.5, y: -85}
+        - {x: 49.5, y: -81}
+        - {x: 47.5, y: -79}
+        - {x: 44.5, y: -80}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: raphael-jumping-shoot_4
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 11
+        width: 254
+        height: 329
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -74, y: 164.5}
+        - {x: -127, y: 124.5}
+        - {x: -127, y: 58.5}
+        - {x: -100, y: 34.5}
+        - {x: -72, y: -117.5}
+        - {x: -48, y: -164.5}
+        - {x: 47, y: -164.5}
+        - {x: 116, y: -113.5}
+        - {x: 127, y: -21.5}
+        - {x: 127, y: 150.5}
+        - {x: 113, y: 164.5}
+      - - {x: 67, y: 111.5}
+        - {x: 66, y: 109.5}
+        - {x: 66, y: 103.5}
+        - {x: 73, y: 103.5}
+        - {x: 78, y: 105.5}
+        - {x: 78, y: 109.5}
+        - {x: 74, y: 111.5}
+      - - {x: 68, y: 145.5}
+        - {x: 71, y: 146.5}
+        - {x: 71, y: 149.5}
+        - {x: 68, y: 150.5}
+        - {x: 66, y: 148.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: raphael-jumping-shoot_5
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 28
+        width: 226
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -51, y: 150}
+        - {x: -85, y: 129}
+        - {x: -103, y: 110}
+        - {x: -113, y: 73}
+        - {x: -113, y: -150}
+        - {x: 94, y: -150}
+        - {x: 113, y: -81}
+        - {x: 113, y: 109}
+        - {x: 74, y: 150}
+      - - {x: 105, y: -98}
+        - {x: 79, y: -121}
+        - {x: 79, y: -150}
+        - {x: 113, y: -150}
+        - {x: 113, y: -98}
+      - - {x: 109, y: 8}
+        - {x: 109, y: -15}
+        - {x: 111, y: -17}
+        - {x: 113, y: -17}
+        - {x: 113, y: 10}
+        - {x: 111, y: 10}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: raphael-jumping-shoot_6
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 28
+        width: 258
+        height: 252
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 106, y: 126}
+        - {x: -98, y: 126}
+        - {x: -129, y: -30}
+        - {x: -129, y: -126}
+        - {x: 104, y: -126}
+        - {x: 129, y: -41}
+        - {x: 129, y: 86}
+      - - {x: -6, y: -52}
+        - {x: -6, y: -55}
+        - {x: -4, y: -58}
+        - {x: -1, y: -59}
+        - {x: 2, y: -59}
+        - {x: 2, y: -58}
+        - {x: 1, y: -58}
+        - {x: -2, y: -61}
+        - {x: -3, y: -68}
+        - {x: -7, y: -72}
+        - {x: -7, y: -77}
+        - {x: -6, y: -77}
+      - - {x: 79, y: -79}
+        - {x: 82, y: -78}
+        - {x: 82, y: -75}
+        - {x: 79, y: -74}
+        - {x: 77, y: -76}
+      - - {x: -106, y: 107}
+        - {x: -122, y: 112}
+        - {x: -129, y: 112}
+        - {x: -129, y: 48}
+        - {x: -122, y: 48}
+        - {x: -101, y: 60}
+        - {x: -95, y: 85}
+        - {x: -95, y: 90}
+      - - {x: 71, y: 68}
+        - {x: 71, y: 55}
+        - {x: 82, y: 55}
+        - {x: 82, y: 68}
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

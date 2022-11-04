@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{E449FC5F-708D-C0C7-262C-B45EA3A70AE7}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Player.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Controller2D.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/PlayerUI.cs" />
+      <File FileName="Assets/Scripts/Player.cs" Line="199" Column="5" />
+      <File FileName="Assets/Scripts/RaycastController.cs" />
+      <File FileName="Assets/Scripts/PlatformController.cs" />
+      <File FileName="Assets/Scripts/SpikeController.cs" />
+      <File FileName="Assets/iOSHapticFeedback/Scripts/iOSHapticFeedbackExample.cs" />
+      <File FileName="Assets/Scripts/PlayerInput.cs" />
+      <File FileName="Assets/Scripts/RangedAttackController.cs" />
+      <File FileName="Assets/Scripts/TargetScript.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="half-light" expanded="True" selected="True" />
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="9abe7891-985a-43ad-bf2e-5ad6927ed434" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
